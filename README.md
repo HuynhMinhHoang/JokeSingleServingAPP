@@ -1,6 +1,7 @@
 # JokeSingleServingAPP
 
 ### Mô tả
+<<<<<<< HEAD
 
 Dự án Joke App là một ứng dụng đơn giản cho phép người dùng đọc và bình chọn cho các truyện cười ngẫu nhiên. Ứng dụng này sử dụng một máy chủ Node.js để cung cấp dữ liệu truyện cười, và giao diện người dùng được phát triển bằng React Native để chạy trên điện thoại di động.
 
@@ -27,3 +28,11 @@ Dự án Joke App là một ứng dụng đơn giản cho phép người dùng �
 
 - npm install
 - npm start
+=======
+Dự án Joke App là một ứng dụng đơn giản cho phép người dùng đọc và bình chọn cho các truyện cười ngẫu nhiên. Ứng dụng này sử dụng một máy chủ Node.js để cung cấp dữ liệu truyện cười, và giao diện người dùng được phát triển bằng React Native để chạy trên điện thoại di động.
+
+### Công nghệ sử dụng
+- Server: Node.js
+- Client: React Native
+- Database: MySQL
+>>>>>>> 4adacd4824ff78ada18bb040510e0a83f2f2f99e
