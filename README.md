@@ -25,9 +25,3 @@ Dự án Joke App là một ứng dụng đơn giản cho phép người dùng �
 - npm install
 - npm start
 
-
-### Công nghệ sử dụng
-- Server: Node.js
-- Client: React Native
-- Database: MySQL
->>>>>>> 4adacd4824ff78ada18bb040510e0a83f2f2f99e
